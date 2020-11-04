@@ -1,0 +1,33 @@
+  .nav{
+    background-color: #058997 !important;
+  }
+  .navbar-light .navbar-nav .nav-link , .navbar-light .navbar-brand{
+    color: white !important;
+  }
+  .avatar-Content{
+      display: inline-flex;
+  
+  }
+  .App-logo {
+    height: 30px;
+    pointer-events: none;
+    margin-left: 10%;
+  }
+  .username{  
+      margin: 8px 0px 0px 10px ;
+  }
+  .searchIcon{
+    color: white !important;
+    background-color:#8dc043 !important;
+    border-radius: 15%!important;
+    border-color: #8dc043 !important;
+    padding: 18px!important;
+  }
+   .MuiOutlinedInput-adornedEnd{
+     padding-right: 0px !important;
+   }
+  @media only screen and (min-width: 360px) and (max-width: 900px) {
+    *{
+        font-size: 12px;
+    }
+    }

@@ -1,0 +1,25 @@
+.iconBtn{
+    color:#8DBF43  !important;
+    margin-left: 72% !important;
+}
+.blackColor{
+    color:black  !important;
+}
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+  
+  .container img {
+      vertical-align: middle;
+}
+  .container .content {
+    position: absolute;
+    bottom: 3px;
+    background:#f1f1f1;
+    color: black;
+    width: 85%;
+    padding: 20px;
+    margin-left: 12px;
+}

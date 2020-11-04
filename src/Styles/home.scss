@@ -1,0 +1,27 @@
+.right-col{
+  margin-left: 30px !important;
+}
+.arrowIcon,.greenLink{
+    color:#8DBF43  !important;
+    float: right !important;
+    margin-top: 8px;
+}
+.page-item.active .page-link {
+  color:black !important;
+  background-color: #8DBF43  !important;
+  border-color: #8DBF43  !important;
+}
+.page-link {
+  color:black !important;
+}
+.greenColor{
+  color:#8DBF43  !important;
+}
+.margin{
+  margin-left: 40% 
+}
+@media only screen and (min-width: 360px) and (max-width: 900px) {
+  .margin{
+    margin-left: 25% !important;
+  }
+}

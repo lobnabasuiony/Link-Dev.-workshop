@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 550px !important;
+}
+.carousel-caption{
+    bottom: 40% !important;
+}
+
+img{
+    opacity: 0.75;
+}
+.greenbtn{
+   background-color: #8DBF43!important;
+
+}
+.btn-primary{
+    border-color: #8DBF43!important;
+}
+.carousel-indicators li {
+    width: 10px!important;
+    height: 10px!important;
+    border-radius: 100%!important;
+  }
+  @media only screen and (min-width: 360px) and (max-width: 900px) {
+    .carousel-item{
+        height: 200px !important;
+        
+    }
+}
